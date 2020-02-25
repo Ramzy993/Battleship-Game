@@ -3,3 +3,5 @@ bolt-ta
 conttest
 flask
 nose
+flask-sqlalchemy
+flask-migrate
